@@ -50,4 +50,4 @@ If this project help you reduce time to hackintosh, you can give me a cup of cof
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/thanhld?country.x=VN&locale.x=vi_VN)
 
-![alt text](monterey.jpg)
+![MacOS Monterey](monterey.jpg)
