@@ -49,3 +49,5 @@ Run macOS Big Sur, Monterey on your Dell Precision 5520 with OpenCore
 If this project help you reduce time to hackintosh, you can give me a cup of coffee :) 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/thanhld?country.x=VN&locale.x=vi_VN)
+
+![alt text](monterey.jpg)
