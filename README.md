@@ -29,9 +29,9 @@ Run macOS Big Sur, Monterey on your Dell Precision 5520 with OpenCore
 | CPU Power Management     | Working                                                    |
 | Laptop Keyboard          | Working                                                    |
 | Laptop Trackpad          | Working                                                    |
-| Laptop Headphones Jack   | Partially working (ComboJack)                              |
-| Built-in Speakers        | Partially working                                          |
-| Built-in Mic             | Partially working                                          |
+| Laptop Headphones Jack   | working (ComboJack)                              |
+| Built-in Speakers        | working                                          |
+| Built-in Mic             | working                                          |
 | Hotkeys for audio        | Working                                                    |
 | USB 3.x                  | Working                                                    |
 | USB 2.0                  | Working                                                    |
